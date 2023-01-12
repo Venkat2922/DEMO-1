@@ -1,0 +1,9 @@
+ForeignTickets\BookForeignTicketWithExcelFileTest.class
+ForeignTickets\BookForeignTicketTest.class
+ForeignTickets\BookTicketForeignerWithFaker.class
+normalPeopleReports\NormalPeopleReport_1.class
+normalPeopleReports\ReportsDatapresentOrNot.class
+normalPeopleReports\NormalTicketWithBase.class
+normalPeopleReports\NormalTicketWithbase_2.class
+zooMgmt\AddVisitorOneTest.class
+ForeignTickets\ForeignTicketWithBase.class
